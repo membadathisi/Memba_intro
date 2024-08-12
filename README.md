@@ -1,0 +1,2 @@
+The aim of this project is to create a machine learning model that predicts  the number of medals that  each country  will win in a particular olympics  event. This is done by making use of a LinearRegression Model and a Neural network  model. We also evaluate the perfomances of the two models, and compare them with one another.
+The data is contained  from the file Teams.csv and the LinearRegression  and neural network models are on the Medal_predictor.ipyng  and  the Neural_Olympics.ipyng files respectively.
